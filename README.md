@@ -17,6 +17,6 @@ The scraped information is stored in .xlsx file.
 The first tab of the spreadsheet contains average calculations based on the scraped values, total results and score.
 The second tab of the spreadsheet contains the scraped values.
 
-![Image of Spreadsheet](url)
+![Image of Spreadsheet](https://github.com/georgi-i/data_scraper_amazon/blob/master/example_images/books_for_automation_result.png)
 
 
